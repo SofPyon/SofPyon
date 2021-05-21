@@ -1,4 +1,4 @@
-# SofPyon
+# Soji
 - ウェブサイト: <https://soji.dev>
 - Twitter: [@sofpyon](https://twitter.com/sofpyon)
 
